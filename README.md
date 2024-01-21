@@ -1,2 +1,0 @@
-# Will
-Site Front-End
